@@ -40,6 +40,3 @@ Untuk proyek ini, kami merekomendasikan penggunaan **GPU AMD** dengan dukungan p
 
 Kami menyambut kontribusi dari komunitas. Silakan lihat `CONTRIBUTING.md` untuk detail lebih lanjut.
 
-## Lisensi
-
-Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file `LICENSE` untuk detail lebih lanjut.
