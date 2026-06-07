@@ -40,6 +40,3 @@ For this project, we recommend using **AMD GPUs** with full support for the **RO
 
 We welcome contributions from the community. Please see `CONTRIBUTING.md` for more details.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
